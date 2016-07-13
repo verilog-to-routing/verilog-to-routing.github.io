@@ -20,5 +20,5 @@ to produce FPGA speed and area results.
 
 VTR is flexible and can taget a wide range of hypothetical and commercial-like FPGA architectures, and includes benchmark designs suitable for evaluating FPGA architectures.
 
-For more information see the [documentation](http://docs.verilogtorouting.org).
+For more information see the [documentation](https://docs.verilogtorouting.org).
 
