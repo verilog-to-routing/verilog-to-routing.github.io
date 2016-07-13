@@ -1,2 +1,4 @@
 #Jekyll build directory
 _site/
+
+.sass-cache/
