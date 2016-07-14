@@ -18,7 +18,7 @@ Most users will be interested in VTR Users and VTR Announce.
 
 Note that you do not need a google account to use the mailing lists.
 
-* To subscribe email: `<listname>+subscribe@googlegroups.com` to subscribe (e.g. `vtr-announce+subscribe@googlegroups.com`).
+* To subscribe, email: `<listname>+subscribe@googlegroups.com` (e.g. `vtr-announce+subscribe@googlegroups.com`).
 
 Issue Tracker
 -------------
