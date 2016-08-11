@@ -52,6 +52,6 @@ See [here](https://help.github.com/articles/setting-up-your-github-pages-site-lo
 
 Once complete you can run
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 Which will start a local server (e.g. http://127.0.0.1:4000/) you can connect to with a browser to preview your changes.
