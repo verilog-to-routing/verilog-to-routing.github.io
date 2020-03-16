@@ -23,13 +23,14 @@ The VTR design flow takes as input a Verilog description of a digital circuit, a
 * Packing, Placement, Routing & Timing Analysis (VPR)
 
 to produce FPGA speed and area results.
+VTR can also produce the information required for bitstream generation to target real FPGA devices.
 
 <figure style="float:left">
     <img src="/img/vpr_sb.png" alt="FPGA Routing Switchbox" width="200"/>
     <figcaption>FPGA Routing Switchbox</figcaption>
 </figure>
 
-VTR is flexible and can taget a wide range of hypothetical and commercial-like FPGA architectures, and includes benchmark designs suitable for evaluating FPGA architectures.
+VTR is flexible and can taget a wide range of hypothetical, commercial-like and commercial FPGA architectures, and includes benchmark designs suitable for evaluating FPGA architectures.
 
 For more information see the [documentation](https://docs.verilogtorouting.org).
 

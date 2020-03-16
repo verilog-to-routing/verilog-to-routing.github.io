@@ -6,17 +6,13 @@ permalink: /download/
 
 How to Cite
 ===========
-The following [paper](http://dx.doi.org/10.1145/2617593) may be used as a general citation for VTR (bibtex format):
+The following [paper](http://www.eecg.utoronto.ca/~kmurray/vtr/vtr8_trets.pdf) may be used as a general citation for VTR (bibtex format):
 
-    @article{vtr2014,
-      title={VTR 7.0: Next Generation Architecture and CAD System for FPGAs},
-      author={Luu, Jason and Goeders, Jeff and Wainberg, Michael and Somerville, Andrew and Yu, Thien and Nasartschuk, Konstantin and Nasr, Miad and Wang, Sen and Liu, Tim and Ahmed, Norrudin and Kent, Kenneth B. and Anderson, Jason and Rose, Jonathan and Betz, Vaughn},
+    @article{vtr8,
+      title={VTR 8: High Performance CAD and Customizable FPGA Architecture Modelling},
+      author={Murray, Kevin E. and Petelin, Oleg and Zhong, Sheng and Wang, Jai Min and ElDafrawy, Mohamed and Legault, Jean-Philippe and Sha, Eugene and Graham, Aaron G. and Wu, Jean and Walker, Matthew J. P. and Zeng, Hanqing and Patros, Panagiotis and Luu, Jason and Kent, Kenneth B. and Betz, Vaughn},
       journal={ACM Trans. Reconfigurable Technol. Syst.},
-      month={June},
-      volume={7}, 
-      number={2}, 
-      pages={6:1--6:30}, 
-      year={2014}
+      year={2020}
     }
 
 Official Release
