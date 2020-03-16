@@ -4,17 +4,21 @@ title: Development
 permalink: /development/
 ---
 
-Development Resources
-
 Source Code
 ===========
 
 * [Development Trunk](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
 
+Developer Guide
+===============
+
+* [Developer Guide](https://docs.verilogtorouting.org/en/latest/dev/)
+
 Build Status
 ============
 
-* [Current Build Status](http://builds.verilogtorouting.org:8080/waterfall)
+* [Buildbot](http://builds.verilogtorouting.org:8080/waterfall) 
+* [Travis CI](https://travis-ci.org/verilog-to-routing/vtr-verilog-to-routing)
 
 Quality-of-Result Tracking
 ==========================

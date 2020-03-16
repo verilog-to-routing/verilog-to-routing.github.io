@@ -24,7 +24,7 @@ Official Release
 
 The official VTR release is available from:
 
-<http://www.eecg.utoronto.ca/vtr/terms.html>
+<https://github.com/verilog-to-routing/vtr-verilog-to-routing/releases/latest>
 
 
 Development Trunk

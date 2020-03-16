@@ -28,7 +28,15 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+figure {
+    display: inline-block;
+}
 
+figure figcaption {
+    text-align: center;
+    font-size: smaller;
+    font-style: italic;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
