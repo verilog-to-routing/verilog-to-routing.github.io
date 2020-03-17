@@ -6,13 +6,8 @@ The Verilog to Routing (VTR) project provides open-source CAD tools for FPGA arc
 
 <figure style="float:right">
     <img src='/img/vpr_placement.png' alt='VPR Placement' width="350px" />
-    <figcaption>VPR Placement</figcaption>
+    <figcaption>VPR: Placement</figcaption>
 </figure>
-
-<!--<div style="font-size:80%; text-align:center;">-->
-<!--<img src="/img/vpr_placement.png" alt="alternate text" width="350px" style="float:right" />-->
-<!--<p>VPR Placement</p>-->
-<!--</div>-->
 
 Open source CAD tools enable the investigation of new FPGA architectures and CAD algorithms, which are not possible with closed-source tools.
 
@@ -32,10 +27,11 @@ VTR can also produce the information required for bitstream generation to target
 
 VTR is flexible and can taget a wide range of hypothetical, commercial-like and commercial FPGA architectures, and includes benchmark designs suitable for evaluating FPGA architectures.
 
+
 For more information see the [documentation](https://docs.verilogtorouting.org).
 
-
-<figure style="float:none">
-    <img src="/img/vpr_routing_utilization.png" width="600px" alt="Routing Utilization"/>
-    <figcaption>Routing Utilization</figcaption>
+<figure style="float:right">
+    <img src="/img/vpr_routing_utilization.png" width="400px" alt="Routing Utilization"/>
+    <figcaption>VPR: Routing Utilization</figcaption>
 </figure>
+
