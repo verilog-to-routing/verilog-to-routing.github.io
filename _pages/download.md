@@ -20,7 +20,7 @@ Official Release
 
 The official VTR release is available from:
 
-<https://github.com/verilog-to-routing/vtr-verilog-to-routing/releases/latest>
+<https://github.com/verilog-to-routing/vtr-verilog-to-routing/releases>
 
 Development Trunk
 =================
