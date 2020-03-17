@@ -22,7 +22,6 @@ The official VTR release is available from:
 
 <https://github.com/verilog-to-routing/vtr-verilog-to-routing/releases/latest>
 
-
 Development Trunk
 =================
 The development trunk is hosted at:
@@ -32,3 +31,9 @@ The development trunk is hosted at:
 Unlike the nicely packaged offical releases the trunk code in a constant state of flux. 
 You should expect that the tools are not always stable and that more work is needed to get the flow to run.
 
+Legacy releases
+===============
+
+Pre VTR 8 releases are no longer supported, but are available from:
+
+<http://www.eecg.utoronto.ca/vtr/terms.html>
