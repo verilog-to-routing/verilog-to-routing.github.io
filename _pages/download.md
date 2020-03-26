@@ -15,6 +15,12 @@ The following [paper](http://www.eecg.utoronto.ca/~kmurray/vtr/vtr8_trets.pdf) m
       year={2020}
     }
 
+License
+=======
+
+Generally most code in VTR is under MIT license, with the exception of ABC which is distributed under its own (permissive) terms.
+See the full license (LICENSE.md) included with VTR for details.
+
 Official Release
 ================
 
