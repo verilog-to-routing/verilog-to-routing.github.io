@@ -18,7 +18,7 @@ Build Status
 ============
 
 * [Buildbot](http://builds.verilogtorouting.org:8080/waterfall) 
-* [Travis CI](https://travis-ci.org/verilog-to-routing/vtr-verilog-to-routing)
+* [Travis CI](https://travis-ci.com/verilog-to-routing/vtr-verilog-to-routing)
 
 Quality-of-Result Tracking
 ==========================
