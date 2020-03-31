@@ -4,6 +4,29 @@ title: Download
 permalink: /download/
 ---
 
+<figure style="width:100%">
+    <div class="grid-container">
+        <div style="grid-row-start: 1; grid-row-end: 2; grid-column-start: 1; grid-column-end: 2;">
+            <video autoplay loop muted playsinline width="250">
+                <source src="/img/bitcoin_placement_macros.mp4" type="video/mp4"/>
+            </video>
+            <figcaption>Placement</figcaption>
+        </div>
+        <div style="grid-row-start: 1; grid-row-end: 2; grid-column-start: 2; grid-column-end: 3;">
+            <video autoplay loop muted playsinline width="250">
+                <source src="/img/bitcoin_nets.mp4" type="video/mp4"/>
+            </video>
+            <figcaption>Logical Connections</figcaption>
+        </div>
+        <div style="grid-row-start: 1; grid-row-end: 2; grid-column-start: 3; grid-column-end: 4;">
+            <video autoplay loop muted playsinline width="250">
+                <source src="/img/bitcoin_routing_util.mp4" type="video/mp4"/>
+            </video>
+            <figcaption>Routing Utilization</figcaption>
+        </div>
+    </div>
+</figure>
+
 How to Cite
 ===========
 The following [paper](http://www.eecg.utoronto.ca/~kmurray/vtr/vtr8_trets.pdf) may be used as a general citation for VTR (bibtex format):

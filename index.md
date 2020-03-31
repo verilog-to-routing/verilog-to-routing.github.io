@@ -6,7 +6,7 @@ The Verilog to Routing (VTR) project provides open-source CAD tools for FPGA arc
 
 <figure style="float:right">
     <img src='/img/vpr_placement.png' alt='VPR Placement' width="350px" />
-    <figcaption>VPR: Placement</figcaption>
+    <figcaption>Device Floorplan & Placement</figcaption>
 </figure>
 
 Open source CAD tools enable the investigation of new FPGA architectures and CAD algorithms, which are not possible with closed-source tools.
@@ -30,8 +30,26 @@ VTR is flexible and can taget a wide range of hypothetical, commercial-like and 
 
 For more information see the [documentation](https://docs.verilogtorouting.org).
 
-<figure style="float:right">
-    <img src="/img/vpr_routing_utilization.png" width="400px" alt="Routing Utilization"/>
-    <figcaption>VPR: Routing Utilization</figcaption>
+<figure style="width:100%">
+    <figcaption>VPR Optimization: Placement & Routing</figcaption>
+    <div class="grid-container">
+        <div style="grid-row-start: 1; grid-row-end: 2; grid-column-start: 1; grid-column-end: 2;">
+            <video autoplay loop muted playsinline width="250">
+                <source src="img/neuron_placement_macros.mp4" type="video/mp4"/>
+            </video>
+            <figcaption>Placement</figcaption>
+        </div>
+        <div style="grid-row-start: 1; grid-row-end: 2; grid-column-start: 2; grid-column-end: 3;">
+            <video autoplay loop muted playsinline width="250">
+                <source src="img/neuron_nets.mp4" type="video/mp4"/>
+            </video>
+            <figcaption>Logical Connections</figcaption>
+        </div>
+        <div style="grid-row-start: 1; grid-row-end: 2; grid-column-start: 3; grid-column-end: 4;">
+            <video autoplay loop muted playsinline width="250">
+                <source src="img/neuron_routing_util.mp4" type="video/mp4"/>
+            </video>
+            <figcaption>Routing Utilization</figcaption>
+        </div>
+    </div>
 </figure>
-
