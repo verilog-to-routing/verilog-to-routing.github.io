@@ -2,7 +2,9 @@
 layout: default
 ---
 
-The Verilog to Routing (VTR) project provides open-source CAD tools for FPGA architecture and CAD research.
+The Verilog to Routing (VTR) project provides open-source CAD tools for FPGA architecture and CAD research. This project, along with the benchmark suites, is released under the MIT license. This means that you are free to use, modify, and distribute the software and benchmark files, subject to the terms and conditions of the MIT license.
+
+
 
 <figure style="float:right">
     <img src='/img/vpr_placement.png' alt='VPR Placement' width="350px" />
