@@ -14,14 +14,16 @@ Developer Guide
 
 * [Developer Guide](https://docs.verilogtorouting.org/en/latest/dev/)
 
+{::comment}
+Commenting out the automated QoR tracking, as we have moved away from this and it isn't maintained anymore.
+
+
 Build Status
 ============
 
 * [Buildbot](http://builds.verilogtorouting.org:8080/waterfall) 
 * [Travis CI](https://travis-ci.com/verilog-to-routing/vtr-verilog-to-routing)
 
-<!---
-Commenting out the automated QoR tracking, as we have moved away from this and it isn't maintained anymore.
 
 Quality-of-Result Tracking
 ==========================
@@ -65,6 +67,6 @@ The main QoR tracking regression tests:
 The following regression tests are run after every check-in:
 
 * [Basic Regression](http://builds.verilogtorouting.org:8088/view?db=basic.db)
--->
 * [Strong Regression](http://builds.verilogtorouting.org:8088/view?db=strong.db)
 
+{:/comment}
