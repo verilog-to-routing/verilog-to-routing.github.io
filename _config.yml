@@ -22,5 +22,5 @@ permalink: /:title/
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
     - jekyll-seo-tag
